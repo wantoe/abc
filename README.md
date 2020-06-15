@@ -15,5 +15,4 @@ The assignment requirement and instructions can be found in ICCS_CW2_2020.pdf
 # What I learnt
 - desiging and setting up Agent Based Modelling experiements.
 - analysing data from Agent Based Modelling to validate a hypothesis.
-
-
+- programming in Netlogo
