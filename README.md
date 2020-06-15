@@ -11,3 +11,4 @@ Download Netlogo software
 open the source code ICCS CW4 By whet20  believer_and_doubter FINAL.nlogo, using Netlogo. Click setup, then click go.
 
 Analysis on the ABM can be found in CW4 for submission.docx
+Instruction on the assignment can be found in ICCS_CW2_2020.pdf
